@@ -1,2 +1,6 @@
-# GoStack2020-GoFinances
+# GoFinances
 Projeto de gestão de finanças
+
+<blockquote>
+  <b>Status:</b> Em desenvolvimento.
+</ blockquote>
