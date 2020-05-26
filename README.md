@@ -1,4 +1,4 @@
-# GoFinances
+# Back-end GoFinances
 Projeto de gestão de finanças
 
 <blockquote>
